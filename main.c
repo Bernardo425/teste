@@ -1,1 +1,3 @@
-<includedçlfjasdçl jasdlfjasdçklfjasdçlfjçlasdkfjal
+void main(){
+	printf("hello world");
+}
